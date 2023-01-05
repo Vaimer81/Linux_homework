@@ -1,0 +1,6 @@
+   0 nano stat.txt
+   1 cat /etc/group | tail -n 5 >> start.txt
+   2 vi start.txt
+   3 cat start.txt
+   4 history > /tmp/history.txt
+   
